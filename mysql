@@ -1,0 +1,3 @@
+my myql gave me troubles to view and then i realised the cmd can also edi tthe database 
+
+mysql -u root -p //will ask for a password and then welcome you straight to mysql connection.
