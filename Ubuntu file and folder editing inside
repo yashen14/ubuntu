@@ -1,0 +1,3 @@
+sudo -i //gives you admin rights
+
+chmod -R 777 /var/www/html //specifies the file to allow copy and pasting and editing of files as admin on ubuntu windows most recent from 2019/08/07
